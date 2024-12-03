@@ -1,0 +1,45 @@
+{
+  "name": "documentation-generator",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.x",
+    "@emotion/styled": "^11.x",
+    "@mui/icons-material": "^5.x",
+    "@mui/lab": "^5.0.0-alpha.165",
+    "@mui/material": "^5.x",
+    "@mui/x-tree-view": "^7.23.0",
+    "@uiw/react-md-editor": "^3.x",
+    "react": "^18.x",
+    "react-dom": "^18.x",
+    "react-dropzone": "^14.x",
+    "react-router-dom": "^6.x",
+    "react-scripts": "^5.0.1",
+    "react-syntax-highlighter": "^15.x",
+    "web-vitals": "^4.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
