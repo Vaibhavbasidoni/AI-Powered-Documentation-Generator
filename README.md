@@ -4,7 +4,7 @@ An automated documentation generator that uses AI to analyze projects and create
 
 ---
 
-![AI Documentation Generator Banner](assets/banner.png)
+![AI Documentation Generator Banner](images/Screenshot 2024-12-03 190722.png)
 
 ## 🚀 Quick Start
 
